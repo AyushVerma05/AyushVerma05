@@ -1,4 +1,4 @@
-
+![logo](https://github.com/AyushVerma05/AyushVerma05/blob/main/BG%20BANNER.png)
 <h1 align="center">Hi 👋, I'm Ayush Verma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
